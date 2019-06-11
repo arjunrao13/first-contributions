@@ -363,6 +363,7 @@ Daniel Jung
 Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
+- ARJUN 
 - cubitoverde
 - Sean Yi (https://github.com/sean-jy-yi)
 - Foysal Remon (https://github.com/foysalremon)
@@ -1391,6 +1392,7 @@ CMBloodMeridian
 - Mi'Angel Pata
 - [SQ](https://github.com/Grootgo)
 - Jesse Lau
+- Arjun 
 - Marjakuusi
 - NuclearApe
 - [Chaz](https://github.com/chaz303)
